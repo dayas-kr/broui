@@ -1,0 +1,26 @@
+{
+  "name": "broui",
+  "version": "1.0.0",
+  "description": "Blade UI components + JS helper (broui)",
+  "main": "resources/js/index.js",
+  "scripts": {
+    "build": "cp -r resources/js public/js || true",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayas-kr/broui.git"
+  },
+  "keywords": [
+    "laravel",
+    "blade",
+    "ui",
+    "components"
+  ],
+  "author": "dayas-kr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayas-kr/broui/issues"
+  },
+  "homepage": "https://github.com/dayas-kr/broui#readme"
+}
